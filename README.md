@@ -2,6 +2,7 @@
 =============
 
 ###1. Introduction
+
 This is a simple python program that reads strings encoded in QR codes.
 Other encoding samples like images have not been properly tested.
 You will need an aditional module named qrtools
@@ -36,6 +37,7 @@ python qrcode.py <path to qr code>
 ```
 
 ###5. Example
+
 Running the following command:
 
 ```
